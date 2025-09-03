@@ -1,0 +1,4 @@
+Pada praktikum minggu pertama ini, kami melakukan implementasi program deteksi warna berbasis Python dengan bantuan library OpenCV. Program dirancang untuk mengenali warna objek yang ditampilkan di depan kamera secara real-time.
+Kendala dalam pelaksanaannya yaitu pada saat melakukan clone, PowerShell tidak bisa nemuin perintah git, karena Git belum terinstall atau PATH Git belum dikenali di Windows.
+maka solusinya adalah dengan menginstal Git Bush
+kendala yang lain yaitu pada saat melakukan runing instal library di vscode tidak bisa terdeteksi dikarenakan versi pyton yang di download tidak support 
